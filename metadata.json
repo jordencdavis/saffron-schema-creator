@@ -1,0 +1,6 @@
+{
+  "name": "FlowWeaver IoT - Multi-Interface Visual Data Flow Designer & Analyzer",
+  "description": "Desktop-grade visual workbench for designing, analyzing, validating, and tracing data flows across IoT interfaces (UART/HEX, Firmware, Firebase RTDB, GUI, Logger) with deterministic offline simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
